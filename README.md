@@ -16,26 +16,9 @@ This is the backend for an e-commerce website developed for an internet retail c
 
 1. Clone this repository to your local machine.
 
-2. Install the project dependencies using npm:
-
-```bash
+2. Install the project dependencies using n
 npm install
 ## API Endpoints
-
-The backend provides the following API endpoints:
-
-- GET `/api/categories`: Fetch all categories.
-- GET `/api/products`: Fetch all products.
-- GET `/api/tags`: Fetch all tags.
-- POST `/api/categories`: Create a new category.
-- POST `/api/products`: Create a new product.
-- POST `/api/tags`: Create a new tag.
-- PUT `/api/categories/:id`: Update a category by ID.
-- PUT `/api/products/:id`: Update a product by ID.
-- PUT `/api/tags/:id`: Update a tag by ID.
-- DELETE `/api/categories/:id`: Delete a category by ID.
-- DELETE `/api/products/:id`: Delete a product by ID.
-- DELETE `/api/tags/:id`: Delete a tag by ID.
 
 ## Environment Variables
 
